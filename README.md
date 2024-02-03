@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nikesh Sapkota<br>🎓 Recent graduate from Islington College<br>💻 Software Developer specializing in MERN Stack<br>🌱 I’m constantly learning and improving my skills in MERN Stack development.<br>⚡ Fun fact: I love exploring the hidden culture of Kathmandu
+Nikesh Sapkota<br>🎓 Recent graduate from Islington College<br>💻 Software Developer specializing in MERN Stack<br>🌱 A passionate learner.
 
 
 # 💻 Tech Stack:
